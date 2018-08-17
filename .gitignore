@@ -70,3 +70,6 @@ fastlane/readme.md
 .idea/markdown-navigator/
 .idea/misc.xml
 .idea/runConfigurations.xml
+.idea/markdown-navigator.xml
+.idea/modules.xml
+.idea/vcs.xml
